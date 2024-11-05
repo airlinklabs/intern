@@ -69,8 +69,8 @@
   - [ ] Run "Radar" to check for malware indicators
 
 - **Node Management**
-  - [ ] View node stats (RAM/CPU usage)
-  - [ ] Create, edit, and delete nodes
+  - [x] View node stats (RAM/CPU usage)
+  - [x] Create, edit, and delete nodes
 
 - **Settings**
   - [ ] Customize panel appearance
@@ -94,7 +94,7 @@
 ### **Commercial Version** (Additional Features)
 
 #### **Authentication**
-- [ ] Add registration function
+- [x] Add registration function
 
 #### **Dashboard**
 
