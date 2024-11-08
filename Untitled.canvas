@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"cd224d74d5d9bfed","x":-780,"y":-20,"width":480,"height":360,"type":"file","file":"Airlink Panel/Ideas.md"},
-		{"id":"b6df46ad30c1a789","x":600,"y":-20,"width":420,"height":360,"type":"file","file":"Airlink Panel/Plans.md"},
-		{"id":"9525e7d87aae439a","x":-20,"y":-520,"width":400,"height":400,"type":"file","file":"Airlink Panel/Overview.md"}
+		{"id":"cd224d74d5d9bfed","type":"file","file":"Ideas.md","x":-780,"y":-20,"width":480,"height":360},
+		{"id":"b6df46ad30c1a789","type":"file","file":"Plans.md","x":600,"y":-20,"width":420,"height":360},
+		{"id":"9525e7d87aae439a","type":"file","file":"Overview.md","x":-20,"y":-520,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"8e5abf06388996c6","fromNode":"9525e7d87aae439a","fromSide":"bottom","toNode":"cd224d74d5d9bfed","toSide":"right"},
